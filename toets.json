@@ -1,0 +1,91 @@
+{
+	"active": false,
+	"book": "scheikunde voor dummies 2",
+	"chapter": 1,
+	"questions" : [
+		{
+			"question":"Waar?",
+			"answers": [
+				{
+					"answer" : "Hier",
+					"correct" : false
+				},
+				{
+					"answer" : "Daar",
+					"correct" : false
+				},
+				{
+					"answer" : "Nergens",
+					"correct" : false
+				},
+				{
+					"answer" : "Ergens",
+					"correct" : true
+				}
+			]
+		},
+		{
+			"question":"Wie?",
+			"answers": [
+				{
+					"answer" : "Hij",
+					"correct" : false
+				},
+				{
+					"answer" : "Wij",
+					"correct" : false
+				},
+				{
+					"answer" : "Hun",
+					"correct" : true
+				},
+				{
+					"answer" : "Zei",
+					"correct" : false
+				}
+			]
+		},
+		{
+			"question":"Wat?",
+			"answers": [
+				{
+					"answer" : "Dat",
+					"correct" : false
+				},
+				{
+					"answer" : "Die",
+					"correct" : false
+				},
+				{
+					"answer" : "Deze",
+					"correct" : true
+				},
+				{
+					"answer" : "Dit",
+					"correct" : false
+				}
+			]
+		},
+		{
+			"question":"Waarom?",
+			"answers": [
+				{
+					"answer" : "Daarom",
+					"correct" : false
+				},
+				{
+					"answer" : "Voordat",
+					"correct" : false
+				},
+				{
+					"answer" : "Omdat",
+					"correct" : false
+				},
+				{
+					"answer" : "Gewoon",
+					"correct" : true
+				}
+			]
+		}
+	]
+}

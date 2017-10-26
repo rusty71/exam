@@ -1,0 +1,22 @@
+{
+	"users" : [
+		{
+			"username":"Jeroen",
+			"email": "jeroen@stylin.nl",
+			"password":"secret11",
+			"teacher":false
+		},
+		{
+			"username":"Mathieu",
+			"email": "mathieu@stylin.nl",
+			"password":"secret11",
+			"teacher":false
+		},
+		{
+			"username":"Andre",
+			"email": "profzb@hotmail.com",
+			"password":"supersecret",
+			"teacher":true
+		}
+	]
+}
